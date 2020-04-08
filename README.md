@@ -19,4 +19,4 @@ Uninstallation Step : (Remove Logo From Termux)
 
 bash remove.sh
 
-Done !!!
+Done !!!# Eagle-Eye-
